@@ -27,8 +27,8 @@ I'm André, a passionate astrophysics enthusiast diving deep into data analysis 
 [LinkedIn](#) | [Twitter](#) | [Email](#)
 
 <div align="center">
-  <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=andretrovello&show_icons=true&theme=dracula"/>
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andretrovello&layout=compact&theme=dracula"/>
+  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=andretrovello&show_icons=true&theme=dracula"/>
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andretrovello&layout=compact&theme=dracula"/>
 </div>
 
 <picture>
