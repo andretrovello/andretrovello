@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-I'm André, a passionate astrophysics enthusiast diving deep into data analysis with R and Python. 🚀
+I'm André, BSc. in Physics at Universidade de São Paulo and currently doing my master´s in Astronomy at IAG-USP. 🚀
 
 ### 🔭 Currently Working On
 - Astrophysics research projects
 - Data analysis and visualization
+- Non-parametric decomposition in Disk Galaxies
 
 ### 🌱 Currently Learning
 - Python for data science
@@ -14,8 +15,6 @@ I'm André, a passionate astrophysics enthusiast diving deep into data analysis 
 ### 🛠️ Skills
 - Python 🐍
 - R 📈
-- SQL 🛢️
-- Machine Learning 🤖
 - Data Visualization 📊
 
 ### 📚 Projects
@@ -24,7 +23,7 @@ I'm André, a passionate astrophysics enthusiast diving deep into data analysis 
 - [Data Visualization Dashboard](#)
 
 ### 🌐 Connect With Me
-[LinkedIn](#) | [Twitter](#) | [Email](#)
+[LinkedIn](www.linkedin.com/in/andretrovello) | [Email](mailto:andre.a.trovello@gmail.com)
 
 ### 📈 GitHub Stats & 🔝 Most Used Languages
 <table>
