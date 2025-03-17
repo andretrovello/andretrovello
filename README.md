@@ -26,11 +26,19 @@ I'm André, a passionate astrophysics enthusiast diving deep into data analysis 
 ### 🌐 Connect With Me
 [LinkedIn](#) | [Twitter](#) | [Email](#)
 
-<div align="center">
-  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=andretrovello&show_icons=true&theme=dracula"/>
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andretrovello&layout=compact&theme=dracula"/>
-</div>
+### 📈 GitHub Stats & 🔝 Most Used Languages
+<table>
+  <tr>
+    <td>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andretrovello&show_icons=true&theme=dracula"/>
+    </td>
+    <td>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andretrovello&layout=compact&theme=dracula"/>
+    </td>
+  </tr>
+</table>
 
+### 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andretrovello/andretrovello/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andretrovello/andretrovello/output/github-contribution-grid-snake.svg">
