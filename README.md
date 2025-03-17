@@ -16,14 +16,11 @@ I'm André, BSc. in Physics at Universidade de São Paulo and currently doing my
 - Python 🐍
 - R 📈
 - Data Visualization 📊
-
-### 📚 Projects
-- [Astrophysics Data Analysis](#)
-- [Machine Learning Models](#)
-- [Data Visualization Dashboard](#)
+- C 💻
+- C++ 🚀
 
 ### 🌐 Connect With Me
-[LinkedIn](www.linkedin.com/in/andretrovello) | [Email](mailto:andre.a.trovello@gmail.com)
+[LinkedIn](www.linkedin.com/in/andretrovello) | [Email](mailto:andre.a.trovello@gmail.com) | [Medium](https://medium.com/@andretrovello)
 
 ### 📈 GitHub Stats & 🔝 Most Used Languages
 <table>
