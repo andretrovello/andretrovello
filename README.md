@@ -10,7 +10,6 @@ I'm André, BSc. in Physics at Universidade de São Paulo and currently doing my
 ### 🌱 Currently Learning
 - Python for data science
 - R for statistical analysis
-- Git and GitHub for version control
 
 ### 🛠️ Skills
 - Python 🐍
@@ -42,5 +41,3 @@ I'm André, BSc. in Physics at Universidade de São Paulo and currently doing my
 </picture>
 
 ---
-
-💡 *“The cosmos is within us. We are made of star-stuff.” – Carl Sagan* ✨
