@@ -28,7 +28,7 @@ I'm André, BSc. in Physics at Universidade de São Paulo and currently doing my
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andretrovello&show_icons=true&theme=dracula&cache_seconds=1800"/>
     </td>
     <td>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andretrovello&layout=compact&theme=dracula&cache_seconds=1800"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andretrovello&layout=compact&theme=dracula&hide=html,css,jupyter%20notebook,tex&cache_seconds=1800"/>
     </td>
   </tr>
 </table>
