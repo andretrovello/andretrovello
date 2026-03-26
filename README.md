@@ -19,16 +19,16 @@ I'm André, BSc. in Physics at Universidade de São Paulo and currently doing my
 - C++ 🚀
 
 ### 🌐 Connect With Me
-[LinkedIn](www.linkedin.com/in/andretrovello) | [Email](mailto:andre.a.trovello@gmail.com) | [Medium](https://medium.com/@andretrovello)
+[LinkedIn](https://www.linkedin.com/in/andretrovello) | [Email](mailto:andre.a.trovello@gmail.com) | [Medium](https://medium.com/@andretrovello)
 
 ### 📈 GitHub Stats & 🔝 Most Used Languages
 <table>
   <tr>
     <td>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andretrovello&show_icons=true&theme=dracula"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andretrovello&show_icons=true&theme=dracula&cache_seconds=1800"/>
     </td>
     <td>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andretrovello&layout=compact&theme=dracula"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andretrovello&layout=compact&theme=dracula&cache_seconds=1800"/>
     </td>
   </tr>
 </table>
