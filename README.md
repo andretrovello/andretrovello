@@ -1,6 +1,6 @@
-## Hi there 👋 I'm André!
+## Hi there, I'm André!
 
-I'm a BSc. in Physics and currently a **Master's student in Astronomy at IAG-USP**. 🌌 
+I'm a BSc. in Physics and currently a **Master's student in Astronomy at IAG-USP**. 
 My research focuses on the morphological decomposition of disk galaxies using Python and R.
 
 ### 🔭 Research & Projects
@@ -32,4 +32,3 @@ My research focuses on the morphological decomposition of disk galaxies using Py
 </picture>
 
 ---
-*“Somewhere, something incredible is waiting to be known.” — Carl Sagan*
